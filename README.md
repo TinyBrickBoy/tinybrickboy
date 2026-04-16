@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Hey,%20I'm%20Leo%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20·%20Sysadmin%20·%20Minecraft%20Enthusiast&descAlignY=58&descSize=18&descColor=ccbbff"/>
+
 # 👋 Hey, ich bin Leo
 
 ### Developer · System Administrator · Minecraft Enthusiast
@@ -67,6 +69,8 @@ motto:      "Made with ❤️ and 🍺"
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Hey,%20I'm%20Leo%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20·%20Sysadmin%20·%20Minecraft%20Enthusiast&descAlignY=58&descSize=18&descColor=ccbbff"/>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TinyBrickBoy&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=tokyonight)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TinyBrickBoy&layout=compact&hide_border=true&theme=tokyonight)
 
 </div>
@@ -74,5 +78,9 @@ motto:      "Made with ❤️ and 🍺"
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Hey,%20I'm%20Leo%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20·%20Sysadmin%20·%20Minecraft%20Enthusiast&descAlignY=58&descSize=18&descColor=ccbbff"/>
   <sub>Made with ❤️ and 🍺 by Leo</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer"/>
