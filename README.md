@@ -1,8 +1,6 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Hey,%20I'm%20Leo%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20·%20Sysadmin%20·%20Minecraft%20Enthusiast&descAlignY=58&descSize=18&descColor=ccbbff"/>
 
-# 👋 Hey, ich bin Leo
+<div align="center">
 
 ### Developer · System Administrator · Minecraft Enthusiast
 
@@ -10,10 +8,7 @@
 
 <br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -69,8 +64,6 @@ motto:      "Made with ❤️ and 🍺"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Hey,%20I'm%20Leo%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20·%20Sysadmin%20·%20Minecraft%20Enthusiast&descAlignY=58&descSize=18&descColor=ccbbff"/>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TinyBrickBoy&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=tokyonight)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TinyBrickBoy&layout=compact&hide_border=true&theme=tokyonight)
 
 </div>
@@ -78,8 +71,6 @@ motto:      "Made with ❤️ and 🍺"
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Hey,%20I'm%20Leo%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20·%20Sysadmin%20·%20Minecraft%20Enthusiast&descAlignY=58&descSize=18&descColor=ccbbff"/>
   <sub>Made with ❤️ and 🍺 by Leo</sub>
 </div>
 
